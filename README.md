@@ -1,6 +1,6 @@
 # 📑 내 손안의 작은 이사 : 움집
 
-    ![Footer__1_](./README_Image/Footer.png)
+    ![Footer](./README_Image/Footer.png)
   
 ------------------------------------------
 
@@ -72,16 +72,15 @@
 
   2. 업체 / 유저 대시보드
 
-    - 유저 : 
+    - 유저 
   ![DashBord](./README_Image/DashBord.gif)
     
-    - 업체 :
+    - 업체
   ![Company_DashBord](./README_Image/Company_DashBord.gif)
 
 
 
-  3. 예약 : 
-  
+  3. 예약
   ![Reservation_1](./README_Image/Reservation_1.gif)
   ![Reservation_2](./README_Image/Reservation_2.gif)
   ![Reservation_3](./README_Image/Reservation_3.gif)
@@ -112,7 +111,7 @@
 
   7. 알람 및 마이페이지
 
-    ![MyPage_Point](./README_Image/MyPage_Point.gif)
+    ![MyPagePoint](./README_Image/MyPagePoint.gif)
     ![Alarm](./README_Image/Alarm.gif)
 
 
