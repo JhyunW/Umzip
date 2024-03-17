@@ -28,31 +28,31 @@
 ## 2-1. 환경 설정
     
   ### **👨‍💻 Front-end**
-    
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-FE5F50?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white">
-  <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=plastic&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Zustand-FE5F50?style=plastic&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=plastic&logo=swiper&logoColor=white">
+  <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=plastic&logo=framer&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white">
 
   ### **👨‍💻 Back-end**
-  <img src="https://img.shields.io/badge/Java-FE5F50?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-FE5F50?style=plastic&logo=&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white">
 
   ### **👩‍💻 Collaboration Tool**  
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white">
 
 ## 2-2. 서비스 아키텍처
 ![PT_4](./README_Image/PT_4.png)
@@ -82,7 +82,7 @@
 
 
   3. 예약
-  
+
   ![Reservation_1](./README_Image/Reservation_1.gif)
   ![Reservation_2](./README_Image/Reservation_2.gif)
   ![Reservation_3](./README_Image/Reservation_3.gif)
