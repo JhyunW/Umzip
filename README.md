@@ -29,30 +29,13 @@
     
   ### **👨‍💻 Front-end**
   
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/BootStrap-7952B3?style=plastic&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Zustand-FE5F50?style=plastic&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=plastic&logo=swiper&logoColor=white">
-  <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=plastic&logo=framer&logoColor=white">
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/BootStrap-7952B3?style=plastic&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-FE5F50?style=plastic&logo=&logoColor=white"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=plastic&logo=swiper&logoColor=white"> <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=plastic&logo=framer&logoColor=white"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=plastic&logo=axios&logoColor=white">
 
   ### **👨‍💻 Back-end**
-  <img src="https://img.shields.io/badge/Java-FE5F50?style=plastic&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=springsecurity&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-FE5F50?style=plastic&logo=&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=plastic&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=plastic&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white">
 
   ### **👩‍💻 Collaboration Tool**  
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=jenkins&logoColor=white">
 
 ## 2-2. 서비스 아키텍처
 ![PT_4](./README_Image/PT_4.png)
@@ -61,8 +44,6 @@
   
 
 # 3. 🦈 주요 기능
-  ![Umzip_1](./README_Image/Umzip_1.png)
-  ![Umzip_2](./README_Image/Umzip_2.png)
 
   1. 로그인, 회원가입
   ![Umzip_1](./README_Image/Umzip_1.png)
@@ -73,9 +54,11 @@
   2. 업체 / 유저 대시보드
 
   - 유저 
+
   ![DashBord](./README_Image/DashBord.gif)
     
   - 업체
+
   ![Company_DashBord](./README_Image/Company_DashBord.gif)
 
 
@@ -89,6 +72,7 @@
   ![Reservation_4](./README_Image/Reservation_4.gif)
 
   - 가격 비용 계산
+
   ![Price](./README_Image/Price.png)
 
 
@@ -124,12 +108,12 @@
 
 
 
-  8. 시연 영상
-    ## Link : https://www.youtube.com/watch?v=krfU33s46lg
+  ## 🎞 시연 영상
+  ## Link : https://www.youtube.com/watch?v=krfU33s46lg
 
 
-  9. 사이트
-    ## Link : https://umzip.com/
+  ## 🖥 사이트
+  ## Link : https://umzip.com/
 
     - 유저 계정 : 
         id : hyunwook@naver.com
