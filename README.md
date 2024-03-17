@@ -72,15 +72,17 @@
 
   2. 업체 / 유저 대시보드
 
-    - 유저 
+  - 유저 
   ![DashBord](./README_Image/DashBord.gif)
     
-    - 업체
+  - 업체
   ![Company_DashBord](./README_Image/Company_DashBord.gif)
 
 
 
+
   3. 예약
+  
   ![Reservation_1](./README_Image/Reservation_1.gif)
   ![Reservation_2](./README_Image/Reservation_2.gif)
   ![Reservation_3](./README_Image/Reservation_3.gif)
@@ -138,7 +140,6 @@
         password : 1234
 
 --------------------------
-![Alt text](image.png)
 # 8. 👨‍👩‍👧‍👦 ![Title](./README_Image/Title.png) 팀원 소개
 ------------------------------------------------------
   
